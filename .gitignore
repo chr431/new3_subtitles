@@ -1,0 +1,17 @@
+# 编辑器/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# 临时/产物
+*.tmp
+*.bak
+*.log

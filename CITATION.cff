@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "如果本数据集对你的工作有帮助，请按此引用。"
+title: "新三国（首播版）字幕数据集"
+abstract: "《新三国》首播版全 95 集字幕，共 57,586 条，每条含视频文件名、时间戳（HH:MM:SS）与字幕文本。"
+authors:
+  - family-names: "chr431"
+    given-names: "chr431"
+version: "0.1.0"
+date-released: "2026-08-20"
+keywords:
+  - 新三国
+  - 字幕
+  - OCR
+  - 中文
+  - 数据集
+license: "GPL-3.0-or-later（仅限仓库原创内容；字幕数据版权归原权利方所有）"
